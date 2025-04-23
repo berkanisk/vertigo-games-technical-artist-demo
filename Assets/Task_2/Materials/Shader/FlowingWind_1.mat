@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlowingWind_1
+  m_Shader: {fileID: 4800000, guid: a674a68f12e6da34385c2f5b33307a6c, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortionTex:
+        m_Texture: {fileID: 2800000, guid: 4dba3710f37cdda44be82742317b0ac4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: be1b091f0b6f245489f752d5b026d8ed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 2a8c99f8e7f32c746adaca474c0c2906, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DistortionSpeed: 0.1
+    - _DistortionStrength: 0.005
+    - _FadeSpeed: -0.5
+    - _FadeWidth: 1.5
+    - _FlickerIntensity: 0.3
+    - _FlickerSpeed: 10
+    - _FresnelPower: -0.5
+    - _Intensity: 12
+    - _Speed: 1
+    - _WaveAmplitude: 0.05
+    - _WaveFrequency: 5
+    - _WaveSpeed: 2
+    m_Colors:
+    - _Color: {r: 1, g: 0.8794405, b: 0.48584908, a: 1}
+  m_BuildTextureStacks: []

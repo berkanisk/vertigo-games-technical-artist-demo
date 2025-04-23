@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0dec380e97a61946a489b3ee99dfe96, type: 3}
+  m_Name: Phantom
+  m_EditorClassIdentifier: 
+  attachmentName: PHANTOM
+  category: 4
+  icon: {fileID: 21300000, guid: f03b355cdc475be468732afe2d51a994, type: 3}
+  powerMod: 8.06
+  damageMod: 8.2
+  accuracyMod: 4
+  rangeMod: 0
+  fireRateMod: 0
+  speedMod: 0

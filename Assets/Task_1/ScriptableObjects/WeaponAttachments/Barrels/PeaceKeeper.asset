@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0dec380e97a61946a489b3ee99dfe96, type: 3}
+  m_Name: PeaceKeeper
+  m_EditorClassIdentifier: 
+  attachmentName: PEACE KEEPER
+  category: 2
+  icon: {fileID: 21300000, guid: c06b0ed22067b024690113a1c543a65f, type: 3}
+  powerMod: 18.82
+  damageMod: 16.4
+  accuracyMod: 22
+  rangeMod: 2.2
+  fireRateMod: 0
+  speedMod: 0

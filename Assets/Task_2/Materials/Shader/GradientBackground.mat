@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4337115934908047209
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GradientBackground
+  m_Shader: {fileID: -6465566751694194690, guid: 6cec5f0f9da6c12458cfaf734819fecb,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BotBlend: 0.9
+    - _HorizontalBlend: 30
+    - _HorizontalBlend_1: 30
+    - _HorizontalBlend_2: 30
+    - _MidBlend: 26.1
+    - _NadirBlend: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _TopBlend: 3
+    - _ZenithBlend: 1
+    m_Colors:
+    - _BotColor: {r: 0.06123176, g: 0.19359207, b: 0.3018868, a: 1}
+    - _GroundColor: {r: 0.011764707, g: 0.04705883, b: 0.078431375, a: 1}
+    - _GroundColor_1: {r: 0.13113126, g: 0.58431375, b: 0, a: 1}
+    - _HorizontalColor: {r: 0.023529414, g: 0.07450981, b: 0.10196079, a: 1}
+    - _MidColor: {r: 0.2735849, g: 0.12888889, b: 0, a: 1}
+    - _SkyColor: {r: 0.10588236, g: 0.20784315, b: 0.28627452, a: 1}
+    - _TopColor: {r: 0.18111429, g: 0.48603576, b: 0.6981132, a: 1}
+  m_BuildTextureStacks: []
